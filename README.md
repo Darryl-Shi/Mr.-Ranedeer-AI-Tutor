@@ -1,5 +1,4 @@
 # Mr. Ranedeer: Your personalized AI Tutor!
-**v2.6 JUST RELEASED, YOU MAY EXPERIENCE BROKEN LINKS**
 
 Unlock the potential of GPT-4 with Mr. Ranedeer AI Tutor, a customizable prompt that delivers personalized learning experiences for users with diverse needs and interests.
 
@@ -50,51 +49,7 @@ Mr. Ranedeer allows you to:
 - Customize your learning style, communication type, tone, and reasoning framework
 - Create the ultimate AI tutor tailored just for you
 
-## Requirements and Compatibility
-
-### Recommended
-
-- ChatGPT Plus Subscription with GPT-4 or above models.
-
-### Not Recommended
-
-- GPT-3.5
-  - Mr. Ranedeer does work in GPT-3.5 but it will not be as effective and concise as GPT-4
-
-### It also works on...
-
-- Claude-100k ([See this tweet - v2.5](https://twitter.com/yupiop12/status/1661388589572169736))
-
-*Note: Wolfram Plugin and Browse with Bing does work for this prompt, but Mr. Ranedeer may easily lose personality.
-
-## Quick Start Guide
-
-1. Click [this link](https://chat.openai.com/share/378699b4-e3d0-436d-a789-4e6844f76319) (**MUST HAVE CHATGPT PLUS**)
-2. Press the "Continue this conversation" button
-3. Configure your preferences
-4. Start learning!
-
-URL: [https://chat.openai.com/share/378699b4-e3d0-436d-a789-4e6844f76319](https://chat.openai.com/share/378699b4-e3d0-436d-a789-4e6844f76319)
-
-Alternatively, you can copy and paste [the prompt](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.txt) into ChatGPT
-
-*Warning: Web Browser and Wolfram Version of Mr. Ranedeer is susceptible to losing personality and may not function fully as intended.
-
-_If you are using the ChatGPT web interface, API costs will not apply._
-
-## Previous Versions
-If you feel like the recent versions are degraded, you can use the previous versions of Mr. Ranedeer AI Tutor.
-
-|Version|Tokens (JSON)|
-|-|-|
-|[v2.6.2](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor)|3,763|
-|[v2.6.1](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/34638933cb3841cc8ac2fa0208fb15e66c8abd6a)|3,745|
-|[v2.6](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/54a8e520023e588d2e739613e4f65df63a6518fd)|3,568|
-|[v2.5](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/65ba999f91afbac63b5777dfcbc8646bade38439)|3,721|
-|[v2.4.16](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/81e36e599dfc1b66a3f6c035368889fa5a959e77)|3,896|
-|[v2.4.11](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/dce8ae6979153ca386758719d1f60aa64a74ed05)|4,336|
-|[v2.3.6](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/59b5339a07b7f8ac765a9e2010fe34e1b2199971)|4,267|
-|[v2](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/tree/3b03ee94f5ff5e010e0a949419521b0236ad8019)|4,484|
+You can copy and paste [the prompt](https://raw.githubusercontent.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/main/Mr_Ranedeer.txt) into ChatGPT
 
 ## Guides
 - [How to Use Mr. Ranedeer](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/blob/main/Guides/How%20to%20use%20Mr.%20Ranedeer.md)

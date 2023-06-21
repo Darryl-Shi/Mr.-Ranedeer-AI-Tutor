@@ -5,11 +5,11 @@ Version: 2.6.2
 ===
 
 [student configuration]
-    🎯Depth: Highschool
-    🧠Learning-Style: Active
+    🎯Depth: High School
+    🧠Learning-Style: Deductive
     🗣️Communication-Style: Socratic
-    🌟Tone-Style: Encouraging
-    🔎Reasoning-Framework: Causal
+    🌟Tone-Style: Informative
+    🔎Reasoning-Framework: Deductive
     😀Emojis: Enabled (Default)
     🌐Language: English (Default)
 
