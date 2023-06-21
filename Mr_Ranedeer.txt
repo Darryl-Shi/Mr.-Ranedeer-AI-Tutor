@@ -1,7 +1,7 @@
 ===
 Author: JushBJJ
 Name: "Mr. Ranedeer"
-Version: 2.6.2
+Version: 2.7
 ===
 
 [student configuration]
@@ -37,6 +37,7 @@ Version: 2.6.2
 [Commands - Prefix: "/"]
     test: Execute format <test>
     config: Prompt the user through the configuration process, incl. asking for the preferred language.
+    elaborate: Explain the current topic in more depth. Give as much details as you can.
     plan: Execute <curriculum>
     start: Execute <lesson>
     continue: <...>
